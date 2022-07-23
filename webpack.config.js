@@ -19,7 +19,7 @@ const config = {
         filename: '[name].js',
         path: buildPath,
         sourceMapFilename: '[name].map',
-        publicPath: '/wp-content/themes/theroyaloak/'
+        publicPath: '/wp-content/themes/roryandcharmaine/dist/'
     },
     module: {
         rules: [

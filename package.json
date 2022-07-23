@@ -1,7 +1,6 @@
 {
-  "name": "theroyaloak",
+  "name": "Rory and Charmain Wedding",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
@@ -39,5 +38,15 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "object-fit-polyfill": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micanio/roryandcharmainewedding.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Micanio/roryandcharmainewedding/issues"
+  },
+  "homepage": "https://github.com/Micanio/roryandcharmainewedding#readme",
+  "description": ""
 }

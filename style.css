@@ -1,7 +1,2 @@
-/* 
-Theme Name : Roray and Charmaine Wedding theme
-Author: Michael McCann
-Description: Custom theme for wedding
-Version: 1.0
-Text Domain: wedding
-*/
+@import "fonts.css";
+@import "reset.css";
